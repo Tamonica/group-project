@@ -25,6 +25,7 @@ main h2 {
 }
 
 /* Add Student Styles Below */
+
 .jane-style {
     color: hotpink;
     background-color: black;
@@ -48,4 +49,9 @@ main h2 {
 .my-bio {
     background-color: green;
     color: white;
+}
+.my-style {
+    color: green;
+    background-color: black;
+    padding: 3px;
 }
